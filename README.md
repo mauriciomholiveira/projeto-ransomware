@@ -4,4 +4,4 @@
 
 Este codigo ele é responsavel por encryptar e descryptar o arquivo TXT conforme pedido pelo professor de CyberSecurity da DIO
 
-![Untitled](Projeto%20Ransomware%20DIO%208d4b8ec591394e8fa416c0fef1e29a9e/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/99220549/207053305-9c9a2534-de2f-48af-ad1c-58c57a9fbb27.png)
